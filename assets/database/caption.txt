@@ -1,0 +1,20 @@
+Lagi penasaran dengan database?  Sederhananya, database itu kayak perpustakaan digital yang super rapih buat data-data penting kita. Dari data pelanggan sampai data ilmiah, semua tersimpan dengan aman di sini. Dengan database, kita bisa mencari informasi dengan cepat, menganalisis data secara mendalam, dan membuat keputusan yang lebih baik.
+
+hastag : 
+
+#database
+#basisdata
+#teknologi
+#coding
+#data
+#informasiteknologi
+#sisteminformasi
+#sql
+#nosql
+#mysql
+#postgresql
+#mongodb
+#oracle
+#microsoftSQLServer
+#python
+#R
